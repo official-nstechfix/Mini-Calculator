@@ -38,4 +38,4 @@ To get Mini Calculator up and running, follow these steps:
    First, you need to clone the repository to your local machine. Open your terminal and run:
    
    ```bash
-   git clone https://github.com/your-username/mini-calculator.git
+   git clone https://github.com/official-nstechfix/Mini-Calculator.git
