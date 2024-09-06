@@ -4,36 +4,33 @@
 
 ## Overview
 
-**Mini Calculator** is a fast and lightweight Chrome extension designed to make quick calculations easily accessible from your browser. Whether you're working, studying, or just browsing, you can launch Mini Calculator in seconds by clicking on its icon in your Chrome toolbar. With a clean, minimalistic design, this tool is perfect for everyday calculations, without the hassle of switching to another app or device.
-
-Mini Calculator is designed to be as efficient as possible, with a simple interface that anyone can use. It’s the ideal tool for quick math tasks you encounter throughout the day, such as splitting bills, converting units, or calculating percentages.
+**Mini Calculator** is a sleek, efficient, and easy-to-use Chrome extension designed for quick calculations. Whether you're handling simple arithmetic or complex mathematical problems, Mini Calculator provides a seamless experience right from your browser toolbar. With its clean, modern interface and responsive design, this extension is perfect for students, professionals, or anyone who needs quick access to a calculator without interrupting their workflow.
 
 ## Features
 
-- **Basic Arithmetic Operations**: Perform addition, subtraction, multiplication, and division with ease.
-- **Responsive Design**: The calculator adjusts beautifully across devices and browser sizes, keeping functionality intact no matter where you use it.
-- **Keyboard Shortcuts**: Enter numbers and mathematical operations directly from your keyboard for a faster experience.
-- **Memory Functions**: Store, recall, and clear memory for ongoing calculations.
-- **Dark Mode**: A sleek, modern dark theme to reduce eye strain and look great with any Chrome setup.
-- **Compact Design**: Minimal space consumption in your toolbar for easy access without cluttering your screen.
+### Core Features
+- **Basic Arithmetic Operations**: Perform fundamental operations including addition, subtraction, multiplication, and division with ease.
+- **Keyboard Support**: Input numbers and operations using your keyboard for a faster and more intuitive experience.
+- **Clear Functionality**: Easily clear the current input with the dedicated 'C' button, allowing you to start fresh with new calculations.
+- **Error Handling**: User-friendly error messages ensure you’re always informed about issues, such as division by zero or invalid inputs.
+- **Dark Theme**: The extension features a dark theme that reduces eye strain and enhances visual appeal, making it suitable for prolonged use.
 
-## Preview
+### Design and User Interface
+- **Modern Aesthetics**: Mini Calculator boasts a contemporary design with smooth gradients and rounded buttons that provide a visually pleasing experience.
+- **Responsive Layout**: The interface adapts to various screen sizes, ensuring that the calculator remains functional and aesthetically pleasing on all devices.
+- **3D Button Effects**: Buttons are designed with subtle 3D effects, including shadows and gradients, to provide a tactile and engaging user experience.
+- **Hover Effects**: Interactive hover effects on buttons enhance usability and provide visual feedback when interacting with the calculator.
 
-![Mini Calculator Screenshot](path_to_screenshot.png)
+### Additional Features
+- **Multi-Language Support**: Mini Calculator supports multiple languages, allowing users from different regions to use the extension in their preferred language.
+- **Customizable Appearance**: Users can choose from different themes and color schemes to match their personal style or the theme of their browser.
+- **History Functionality**: The extension includes a history feature that lets users review previous calculations and reuse them as needed.
 
 ## Installation
 
-### Install from the Chrome Web Store
+To get Mini Calculator up and running, follow these steps:
 
-The Mini Calculator extension can be installed directly from the Chrome Web Store for a seamless setup:
-1. Go to the [Mini Calculator Extension](https://chrome.google.com/webstore/detail/mini-calculator/your-extension-id).
-2. Click the **Add to Chrome** button.
-3. The extension icon will appear in your Chrome toolbar. Click the icon to launch Mini Calculator.
-
-### Manual Installation
-
-To manually install the extension from this repository:
-
-1. **Clone the Repository:**
+1. **Clone the Repository**:
+   First, you need to clone the repository to your local machine. Open your terminal and run:
    ```bash
    git clone https://github.com/your-username/mini-calculator.git
