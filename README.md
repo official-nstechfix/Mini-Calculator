@@ -1,6 +1,6 @@
 # Mini Calculator - Chrome Extension
 
-![Mini Calculator](path_to_icon.png)
+![Mini Calculator](https://github.com/official-nstechfix/Projects-Templates/blob/main/Extensions/Mini%20Calculator/icon.png)
 
 ## Overview
 
@@ -10,7 +10,6 @@
 
 ### Core Features
 - **Basic Arithmetic Operations**: Perform fundamental operations including addition, subtraction, multiplication, and division with ease.
-- **Keyboard Support**: Input numbers and operations using your keyboard for a faster and more intuitive experience.
 - **Clear Functionality**: Easily clear the current input with the dedicated 'C' button, allowing you to start fresh with new calculations.
 - **Error Handling**: User-friendly error messages ensure you’re always informed about issues, such as division by zero or invalid inputs.
 - **Dark Theme**: The extension features a dark theme that reduces eye strain and enhances visual appeal, making it suitable for prolonged use.
@@ -26,11 +25,17 @@
 - **Customizable Appearance**: Users can choose from different themes and color schemes to match their personal style or the theme of their browser.
 - **History Functionality**: The extension includes a history feature that lets users review previous calculations and reuse them as needed.
 
+
+### Screenshot
+![Mini Calculator Icon](https://github.com/official-nstechfix/Projects-Templates/blob/main/Extensions/Mini%20Calculator/Screenshot%20(70).png)
+
+
 ## Installation
 
 To get Mini Calculator up and running, follow these steps:
 
 1. **Clone the Repository**:
    First, you need to clone the repository to your local machine. Open your terminal and run:
+   
    ```bash
    git clone https://github.com/your-username/mini-calculator.git
